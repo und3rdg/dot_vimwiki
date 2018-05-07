@@ -1,0 +1,34 @@
+var obj:{
+  cancel: false, // for breaking dots while sending
+  
+  sendingNotification: function() {
+    var speed = 300
+    var maxDots = 3
+    var that = obj
+
+    var cancelled = that.cancel
+    var button = '[data-booking-destination="submit"]'
+    var sendingTxt = '[data-booking-sendingNotification]'
+
+    // breaking loop if canceled
+    if(cancelled){
+      return
+    } 
+
+    // DOING JOB
+    
+    // animate sending button
+    if( that.sendingButton.dot < maxDots){
+      $(button).append(' . ')
+      that.sendingButton.dot ++
+    } else {
+      $(button).text('')
+      that.sendingButton.dot = 0
+    }
+
+    // loop it, speed in ms
+    if (!cancelled) {
+      setTimeout(that.sendingNotification, speed);
+    }
+  }
+}
