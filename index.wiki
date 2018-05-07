@@ -13,6 +13,6 @@
 * [[cannot read property 0 of undefined]]
 
 == vim ==
-* [[modelene]]
+* [[modeline]]
 
 
