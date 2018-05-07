@@ -1,18 +1,18 @@
 == javascript ==
-[[ajax]]
-[[autosendForm]]
-[[functionLoopTimeout]]
-[[library]]
-[[jquery.timer]]
+* [[ajax]]
+* [[autosendForm]]
+* [[functionLoopTimeout]]
+* [[library]]
+* [[jquery.timer]]
 
 == git ==
-[[gitignore]]
+* [[gitignore]]
 
 == gulp ==
-[[gulp-browser-sync]]
-[[cannot read property 0 of undefined]]
+* [[gulp-browser-sync]]
+* [[cannot read property 0 of undefined]]
 
 == vim ==
-[[modelene]]
+* [[modelene]]
 
 
