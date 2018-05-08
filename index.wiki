@@ -1,18 +1,26 @@
-== javascript ==
+= keepthinking =
+* [[dev links]]
+
+= javascript =
 * [[ajax]]
 * [[autosendForm]]
 * [[functionLoopTimeout]]
 * [[library]]
 * [[jquery.timer]]
 
-== git ==
+= git =
 * [[gitignore]]
 
-== gulp ==
+= gulp =
 * [[gulp-browser-sync]]
 * [[cannot read property 0 of undefined]]
 
-== vim ==
+= vim =
 * [[modeline]]
+
+= todo =
+[ ] vim map
+:cd %:p:h
+:lcd %:p:h
 
 
