@@ -24,3 +24,4 @@
 :lcd %:p:h
 
 
+[ ] vim git branch in [master]+
