@@ -16,6 +16,7 @@
   * https://www.westkowloon.hk/en
 
 * http://bl.keepthinking.net/chaplin/en
+* http://dev.keepthinking.net/qi-chaplin/
   * http://chaplin.keepthinking.net/en
 
 * http://bl.keepthinking.net/ashmolean
