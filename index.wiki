@@ -20,9 +20,4 @@
 * [[modeline]]
 
 = todo =
-[ ] vim map
-:cd %:p:h
-:lcd %:p:h
-
-
-[ ] vim git branch in [master]+
+[ BUG ] nVim autoOpen/autoSave $VIMRC (relative/absolute path)
