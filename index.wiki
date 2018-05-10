@@ -20,4 +20,4 @@
 * [[modeline]]
 
 = todo =
-[ BUG ] nVim autoOpen/autoSave $VIMRC (relative/absolute path)
+[BUG] nVim autoOpen/autoSave $VIMRC (relative/absolute path)

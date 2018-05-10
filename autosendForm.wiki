@@ -1,4 +1,4 @@
-```
+```javascript
   branchesFilterAutoSubmit: function(){
     var container = '.branches__bottom__form'
     var listItem = 'li[data-val]'
