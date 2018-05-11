@@ -1,6 +1,3 @@
-= keepthinking =
-* [[dev links]]
-
 = javascript =
 * [[ajax]]
 * [[autosendForm]]
@@ -9,6 +6,7 @@
 * [[jquery.timer]]
 * [[selectByLetter]]
 * [[jshint]]
+* [[webStorage]]
 
 = git =
 * [[gitignore]]
@@ -22,3 +20,10 @@
 
 = todo =
 [BUG] nVim autoOpen/autoSave $VIMRC (relative/absolute path)
+
+= notepad =
+* [[sainsbury]]
+* 
+= keepthinking =
+* [[dev links]]
+
