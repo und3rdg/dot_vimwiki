@@ -8,6 +8,7 @@
 * [[library]]
 * [[jquery.timer]]
 * [[selectByLetter]]
+* [[jshint]]
 
 = git =
 * [[gitignore]]
