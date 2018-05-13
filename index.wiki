@@ -9,6 +9,7 @@
 * [[webStorage]]
 * [[regexp]]
 * [[debug.log]]
+* [[js console with jsfidle]]
 
 = [[php]] =
 
