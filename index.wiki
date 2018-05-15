@@ -22,7 +22,6 @@
 * [[modeline]]
 
 = todo =
-[BUG] nVim autoOpen/autoSave $VIMRC (relative/absolute path)
 
 = notepad =
 * [[sainsbury]]
