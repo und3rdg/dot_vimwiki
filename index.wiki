@@ -13,6 +13,7 @@
 
 = git =
 * [[gitignore]]
+* [[git-svn worflow]]
 
 = gulp =
 * [[gulp-browser-sync]]
