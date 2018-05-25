@@ -13,6 +13,8 @@
   * http://www-uat.westkowloon.hk/en
 
 * http://bl.keepthinking.net:3000/wkcd-1.3
+* http://bl.keepthinking.net:3000/wkcd-1.3/static/static/wifi/
+* http://bl.keepthinking.net:3000/wkcd-1.3/static/static/wifi/mobile.html
   * https://www.westkowloon.hk/en
 
 * http://bl.keepthinking.net:3000/chaplin/en
