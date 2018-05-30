@@ -10,6 +10,8 @@
   * http://staging.paul-mellon-centre.ac.uk/
 
 * http://bl.keepthinking.net:3000/wkcd-crm
+* http://bl.keepthinking.net:3000/wkcd-crm/static/static/wifi/
+* http://bl.keepthinking.net:3000/wkcd-crm/static/static/wifi/mobile.html
   * http://www-uat.westkowloon.hk/en
 
 * http://bl.keepthinking.net:3000/wkcd-1.3
