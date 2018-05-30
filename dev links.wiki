@@ -9,15 +9,11 @@
   * http://www.paul-mellon-centre.ac.uk/
   * http://staging.paul-mellon-centre.ac.uk/
 
-* http://bl.keepthinking.net:3000/wkcd-crm
-* http://bl.keepthinking.net:3000/wkcd-crm/static/static/wifi/
-* http://bl.keepthinking.net:3000/wkcd-crm/static/static/wifi/mobile.html
-  * http://www-uat.westkowloon.hk/en
-
-* http://bl.keepthinking.net:3000/wkcd-1.3
+* http://bl.keepthinking.net:3000/wkcd
 * http://bl.keepthinking.net:3000/wkcd-1.3/static/static/wifi/
 * http://bl.keepthinking.net:3000/wkcd-1.3/static/static/wifi/mobile.html
   * https://www.westkowloon.hk/en
+  * http://www-uat.westkowloon.hk/en
 
 * http://bl.keepthinking.net:3000/chaplin/en
   * http://dev.keepthinking.net/qi-chaplin/
