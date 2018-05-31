@@ -10,6 +10,7 @@
   * http://staging.paul-mellon-centre.ac.uk/
 
 * http://bl.keepthinking.net:3000/wkcd
+* http://bl.keepthinking.net:3000/wkcd/en/wifi
 * http://bl.keepthinking.net:3000/wkcd-1.3/static/static/wifi/
 * http://bl.keepthinking.net:3000/wkcd-1.3/static/static/wifi/mobile.html
   * https://www.westkowloon.hk/en
