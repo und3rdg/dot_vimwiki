@@ -15,6 +15,7 @@
 * [[gitignore]]
 * [[git-svn worflow]]
 * [[git-svn multiple branches]]
+* [[git-autocompletion fix]]
 
 = gulp =
 * [[gulp-browser-sync]]
