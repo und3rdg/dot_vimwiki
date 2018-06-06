@@ -16,6 +16,7 @@
 * [[git-svn worflow]]
 * [[git-svn multiple branches]]
 * [[git-autocompletion fix]]
+* [[Rewrite authors]]
 
 = gulp =
 * [[gulp-browser-sync]]

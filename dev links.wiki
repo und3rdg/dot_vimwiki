@@ -1,3 +1,4 @@
+== WIFI staging ==
 * http://bl.keepthinking.net:3000
 * http://bl.keepthinking.net/vimwiki
 
@@ -10,9 +11,9 @@
   * http://staging.paul-mellon-centre.ac.uk/
 
 * http://bl.keepthinking.net:3000/wkcd
-* http://bl.keepthinking.net:3000/wkcd/en/wifi
-  * https://www.westkowloon.hk/en
-  * http://www-uat.westkowloon.hk/en
+  * https://www.westkowloon.hk/
+  * http://www-uat.westkowloon.hk/
+  * https://account.westkowloon.hk/
 
 * http://bl.keepthinking.net:3000/chaplin/en
   * http://dev.keepthinking.net/qi-chaplin/
