@@ -24,6 +24,7 @@
 
 = vim =
 * [[modeline]]
+* [[Ex]]
 
 = todo =
 
