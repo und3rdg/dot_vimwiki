@@ -33,3 +33,4 @@
 * 
 = keepthinking =
 * [[dev links]]
+* [[wkcd-color_VIM_macro]]

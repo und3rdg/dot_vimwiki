@@ -6,39 +6,44 @@
   * https://artuk.org/
   * https://staging.artuk.org/
 
-* http://bl.keepthinking.net:4000/pmc
-  * http://www.paul-mellon-centre.ac.uk/
-  * http://staging.paul-mellon-centre.ac.uk/
-
-* http://bl.keepthinking.net:4000/wkcd
-  * https://www.westkowloon.hk/
-  * http://www-uat.westkowloon.hk/
-  * https://account.westkowloon.hk/
+* http://bl.keepthinking.net:4000/ashmolean
+  * http://collections-staging.ashmolean.org/
+  * http://collections.ashmolean.org/
 
 * http://bl.keepthinking.net:4000/chaplin/en
   * http://dev.keepthinking.net/qi-chaplin/
   * http://chaplin.keepthinking.net/en
 
-* http://bl.keepthinking.net:4000/ashmolean
-  * http://collections-staging.ashmolean.org/
-  * http://collections.ashmolean.org/
+* http://bl.keepthinking.net:4000/diaart
+  * https://diaart.org/
+  * https://staging.diaart.org/
+
+* http://bl.keepthinking.net:4000/diva
+  * http://divaantwerp.be/
+  * https://zilverstaging.qi-cms.com/web
+
+* http://bl.keepthinking.net:4000/horniman
+  * https://www.horniman.ac.uk/
+
+* http://bl.keepthinking.net/lpc
+  * http://archaeology.cityofnewyork.us/
+
+* http://bl.keepthinking.net:4000/pmc
+  * http://www.paul-mellon-centre.ac.uk/
+  * http://staging.paul-mellon-centre.ac.uk/
 
 * http://bl.keepthinking.net:4000/sainsbury
   * http://ml.keepthinking.net/qi-sainsburys/login/index
   * https://sainsburyarchive.org.uk/
   * http://dev.keepthinking.net/sainsbury/
 
-* http://bl.keepthinking.net:4000/diva
-  * http://divaantwerp.be/
-  * https://zilverstaging.qi-cms.com/web
-
-* http://bl.keepthinking.net:4000/diaart
-  * https://diaart.org/
-  * https://staging.diaart.org/
-
 * http://bl.keepthinking.net:4000/shakespeare
   * http://collections.shakespeare.org.uk/
   * https://sbtstaging.qi-cms.com/web/
 
-* http://bl.keepthinking.net:4000/horniman
-  * https://www.horniman.ac.uk/
+* http://bl.keepthinking.net:4000/wkcd
+  * http://bl.keepthinking.net/staging/wkcd
+  * https://www.westkowloon.hk/
+  * http://www-uat.westkowloon.hk/
+  * https://account.westkowloon.hk/
+
