@@ -27,6 +27,7 @@
 
 * http://bl.keepthinking.net/lpc
   * http://archaeology.cityofnewyork.us/
+  * http://archaeology.cityofnewyork.us/staging/
 
 * http://bl.keepthinking.net:4000/pmc
   * http://www.paul-mellon-centre.ac.uk/
