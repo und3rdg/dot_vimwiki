@@ -34,6 +34,7 @@
   * http://staging.paul-mellon-centre.ac.uk/
 
 * http://bl.keepthinking.net:4000/sainsbury
+  * http://bl.keepthinking.net/testing/sainsbury
   * http://ml.keepthinking.net/qi-sainsburys/login/index
   * https://sainsburyarchive.org.uk/
   * http://dev.keepthinking.net/sainsbury/
