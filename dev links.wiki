@@ -43,6 +43,9 @@
   * http://collections.shakespeare.org.uk/
   * https://sbtstaging.qi-cms.com/web/
 
+* http://bl.keepthinking.net:4000/whitecube
+  * http://whitecube.com/
+
 * http://bl.keepthinking.net:4000/wkcd
   * http://bl.keepthinking.net/staging/wkcd
   * https://www.westkowloon.hk/
