@@ -1,3 +1,5 @@
+= objected =
+```
 var obj:{
   cancel: false, // for breaking dots while sending
   
@@ -32,3 +34,25 @@ var obj:{
     }
   }
 }
+```
+
+= functional =
+```
+var running = true
+function loop_slides() {
+  // breaking loop if canceled
+  if(!running){
+    console.log('stop')
+    return
+  } 
+  // DOING JOB
+    console.log('loop')
+  hide_items(selectors.items)
+  show_item(current_item)
+  update_state()
+  // loop it, speed in ms
+  if (running) {
+    setTimeout(loop_slides, speed);
+  }
+}
+```
