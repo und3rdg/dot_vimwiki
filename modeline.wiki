@@ -8,3 +8,7 @@
 
 === indent 2 spaces ===
 <? // vim: tabstop=2 sw=2 ft=html
+
+=== indent html, syntax php ===
+<? // vim: tabstop=2 sw=2 ft=html syn=php
+<? // vim: tabstop=4 sw=4 ft=html syn=php

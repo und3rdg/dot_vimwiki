@@ -8,6 +8,7 @@
 * [[jshint]]
 * [[webStorage]]
 * [[regexp]]
+* [[debug.log]]
 
 = [[php]] =
 
