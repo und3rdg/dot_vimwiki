@@ -37,7 +37,8 @@
 
 * *sainsbury*
 * http://bl.keepthinking.net:4000/sainsbury
-  * http://bl.keepthinking.net/testing/sainsbury
+  * http://bl.keepthinking.net/staging/sainsbury-v1
+  * http://bl.keepthinking.net/staging/sainsbury-v2
   * https://sainsburyarchive.org.uk/
   * http://staging.sainsburyarchive.org.uk/
 
