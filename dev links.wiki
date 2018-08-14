@@ -25,6 +25,10 @@
 * http://bl.keepthinking.net:4000/horniman
   * https://www.horniman.ac.uk/
 
+* *lloyds*
+* http://bl.keepthinking.net/lloyds
+  * http://dev.keepthinking.net/lloyds
+
 * *lpc*
 * http://bl.keepthinking.net/lpc
   * http://archaeology.cityofnewyork.us/
