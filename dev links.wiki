@@ -26,7 +26,7 @@
   * https://www.horniman.ac.uk/
 
 * *lloyds*
-* http://bl.keepthinking.net/lloyds
+* http://bl.keepthinking.net:4000/lloyds
   * http://dev.keepthinking.net/lloyds
 
 * *lpc*
@@ -41,8 +41,8 @@
 
 * *sainsbury*
 * http://bl.keepthinking.net:4000/sainsbury
-  * http://bl.keepthinking.net/staging/sainsbury-v1/catalogue/
-  * http://bl.keepthinking.net/staging/sainsbury-v2/catalogue/
+  * http://bl.keepthinking.net/staging/sainsbury-v1/
+  * http://bl.keepthinking.net/staging/sainsbury-v2/
   * https://sainsburyarchive.org.uk/
   * http://staging.sainsburyarchive.org.uk/
 
