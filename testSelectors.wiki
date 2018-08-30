@@ -1,19 +1,19 @@
 
-  var elements = {
-    container : document.querySelector('.filter_dropdown_container'),
-    types     : document.querySelectorAll('[data-filter_type]'),
-    getUrl    : document.querySelector('[data-filter_url]'),
-    submit    : document.querySelector('[data-filter_submit]'),
-    parm      : document.querySelector('[data-filter_parm]'),
-    subList   : document.querySelectorAll('.filter_sub_list'),
-    list      : document.querySelectorAll('.filter_list'),
-    test: function(){
-      var el = this
-      Object.keys(el).forEach(function(item){
-        if(item === 'test'){ return }
-        if(el[item] === null || el[item].length === 0){ console.warn("missing: " + "selectors." + item) }
-      })
-    }
+var elements = {
+  container : document.querySelector('.filter_dropdown_container'),
+  types     : document.querySelectorAll('[data-filter_type]'),
+  getUrl    : document.querySelector('[data-filter_url]'),
+  submit    : document.querySelector('[data-filter_submit]'),
+  parm      : document.querySelector('[data-filter_parm]'),
+  subList   : document.querySelectorAll('.filter_sub_list'),
+  list      : document.querySelectorAll('.filter_list'),
+  test: function(){
+    var el = this
+    Object.keys(el).forEach(function(item){
+      if(item === 'test'){ return }
+      if(!el[item] || el[item].length === 0){ console.warn("missing: " + "selectors." + item) }
+    })
   }
-  
-  elements.test()
+}
+
+elements.test()
