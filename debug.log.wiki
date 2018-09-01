@@ -1,10 +1,15 @@
 function debug(){
   "use strict"
   var isDebug = parseInt(window.localStorage.getItem('debug'))
-  if(isDebug){
-    console.log.apply(null, arguments)
-  }
-  // turn it on in your browser by
-  // setting debug item in your local storage
-  // window.localStorage.setItem('debug',1)
+  if(isDebug){ console.log.apply(null, arguments) }
+    // turn it on in your browser by
+    // window.localStorage.setItem('debug',1)
 }
+
+version 2
+
+var dbg = parseInt(window.localStorage.getItem('debug'))
+if(dbg){ dbg = console.log
+} else { dbg = function(){} } 
+  // turn it on in your browser by
+  // window.localStorage.setItem('debug',1)
