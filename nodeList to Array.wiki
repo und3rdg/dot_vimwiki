@@ -1,7 +1,9 @@
-== Terse While new Array ==
-Fastest and very compatible with all browsers
-On top of that, very straight forward
 
+Fast and very compatible with all browsers.
+Very straight forward
+https://jsperf.com/nodelist-to-array/27
+
+Working with everything what have a .length:
 
 function nodeListToArray(nodeList){
   var i = nodeList.length
@@ -10,4 +12,11 @@ function nodeListToArray(nodeList){
   return arr
 }
 
-https://jsperf.com/nodelist-to-array/27
+On top of that fancy addition,
+but working only with NodeList's:
+
+NodeList.prototype.toArray = function(){
+  return nodeListToArray(this)
+}
+    
+
