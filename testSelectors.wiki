@@ -11,7 +11,7 @@ var elements = {
     var el = this
     Object.keys(el).forEach(function(item){
       if(item === 'test'){ return }
-      if(!el[item] || el[item].length === 0){ console.warn("missing: " + "selectors." + item) }
+      if(!el[item] || el[item].length === 0){ console.warn("missing: " + "elements." + item) }
     })
   }
 }

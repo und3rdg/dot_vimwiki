@@ -1,4 +1,5 @@
 = javascript =
+* [[nodeList to Array]]
 * [[testSelectors]]
 * [[ajax]]
 * [[autosendForm]]
@@ -11,6 +12,7 @@
 * [[regexp]]
 * [[debug.log]]
 * [[js console with jsfidle]]
+* [[check if mobile(phone)]]
 
 = [[php]] =
 
@@ -38,6 +40,7 @@
 = notepad =
 * [[sainsbury]]
 * [[tmp]]
+
 = keepthinking =
 * [[dev links]]
 * [[wkcd-color_VIM_macro]]

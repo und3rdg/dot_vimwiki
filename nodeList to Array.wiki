@@ -1,0 +1,13 @@
+== Terse While new Array ==
+Fastest and very compatible with all browsers
+On top of that, very straight forward
+
+
+function nodeListToArray(nodeList){
+  var i = nodeList.length
+  var arr = new Array(i)
+  while(i--){ arr[i] = nodeList[i] }
+  return arr
+}
+
+https://jsperf.com/nodelist-to-array/27
