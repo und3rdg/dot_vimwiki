@@ -14,7 +14,8 @@
 * [[js console with jsfidle]]
 * [[check if mobile(phone)]]
 
-= [[php]] =
+= php =
+* [[var_dump]]
 
 
 = linux =
