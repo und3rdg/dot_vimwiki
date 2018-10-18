@@ -1,0 +1,13 @@
+
+class M_template extends M_common
+{
+	
+	public function __construct()
+	{
+		parent::__construct();
+
+    $gitHash = exec('git -C skins/sainsbury/ rev-parse --short HEAD ');
+    $this->data->gitHash = $gitHash;
+
+	}
+}

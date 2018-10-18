@@ -17,6 +17,7 @@
 
 = php =
 * [[var_dump]]
+* [[$githash]]
 
 
 = linux =
