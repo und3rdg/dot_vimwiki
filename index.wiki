@@ -21,6 +21,7 @@
 
 = css =
 * [[text-decoration-color]]
+* [[background inline]]
 
 = linux =
 * [[ls by port]]
@@ -31,6 +32,7 @@
 * [[git-svn multiple branches]]
 * [[git-autocompletion fix]]
 * [[Rewrite authors]]
+* [[prepare-commit-msg]]
 
 = gulp =
 * [[gulp-browser-sync]]
