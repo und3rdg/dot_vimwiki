@@ -18,6 +18,7 @@
 = php =
 * [[var_dump]]
 * [[$githash]]
+* [[truncate)]]
 
 = css =
 * [[text-decoration-color]]
