@@ -35,7 +35,7 @@
   * http://archaeology.cityofnewyork.us/staging/
 
 * *pmc*
-* http://bl.keepthinking.net:4000/pmc
+* http://bl.keepthinking.net/pmc
   * http://www.paul-mellon-centre.ac.uk/
   * http://staging.paul-mellon-centre.ac.uk/
 
