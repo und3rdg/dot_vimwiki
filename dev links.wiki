@@ -56,8 +56,7 @@
 
 * *wkcd*
 * http://bl.keepthinking.net:4000/wkcd
-  * http://bl.keepthinking.net/testing/wkcd
-  * http://bl.keepthinking.net/testing/wkcd-1
+  * http://bl.keepthinking.net/testing/wkcd-footer
   * https://www.westkowloon.hk/
   * http://www-uat.westkowloon.hk/
   * https://account.westkowloon.hk/
