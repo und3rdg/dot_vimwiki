@@ -50,4 +50,5 @@
 * [[tmp]]
 
 = keepthinking =
+* [[bookmark]]
 * [[dev links]]

@@ -27,7 +27,7 @@
 
 * *lloyds*
 * http://bl.keepthinking.net:4000/lloyds
-  * http://dev.keepthinking.net/lloyds
+  * https://lloyds.keepthinking.net/
 
 * *lpc*
 * http://bl.keepthinking.net/lpc
