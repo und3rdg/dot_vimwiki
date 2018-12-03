@@ -28,6 +28,7 @@
 * *lloyds*
 * http://bl.keepthinking.net:4000/lloyds
   * https://lloyds.keepthinking.net/
+  * https://hec.lrfoundation.org.uk
 
 * *lpc*
 * http://bl.keepthinking.net/lpc
