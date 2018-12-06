@@ -2,6 +2,7 @@
 * http://bl.keepthinking.net:4000/artuk
   * https://artuk.org/
   * https://staging.artuk.org/
+  * http://bl.keepthinking.net/testing/artuk/
 
 * *ashmolean*
 * http://bl.keepthinking.net:4000/ashmolean
