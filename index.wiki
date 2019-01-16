@@ -1,4 +1,5 @@
 = javascript =
+* [[deepClone]]
 * [[nodeList to Array]]
 * [[testSelectors]]
 * [[ajax]]
@@ -26,6 +27,7 @@
 
 = linux =
 * [[ls by port]]
+* [[bsd_games]]
  
 = git =
 * [[gitignore]]
