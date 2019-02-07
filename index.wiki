@@ -1,4 +1,5 @@
 = javascript =
+* [[eslintrc]]
 * [[deepClone]]
 * [[nodeList to Array]]
 * [[testSelectors]]
