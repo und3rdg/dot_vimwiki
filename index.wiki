@@ -17,6 +17,12 @@
 * [[check if mobile(phone)]]
 * [[DOMContentLoaded]]
 
+= svg =
+* [[arrow]]
+* [[close tag]]
+* [[cross]]
+* [[magnifier]]
+
 = php =
 * [[var_dump]]
 * [[$githash]]
