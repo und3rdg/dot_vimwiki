@@ -48,6 +48,7 @@
 * [[gulp-browser-sync]]
 * [[cannot read property 0 of undefined]]
 * [[gulpfile.js]]
+* [[is_dev is_prod (from task name)]]
 * 
 
 = vim =

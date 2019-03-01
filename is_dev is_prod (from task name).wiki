@@ -1,0 +1,17 @@
+const is_dev_task = () => {
+    const task_runner = gulp.env._[0]
+    let is_dev = false
+    is_dev = (task_runner ==="bar") || (task_runner === "watch")
+    return is_dev
+}
+const is_dev = is_dev_task()
+const is_prod = !is_dev
+
+let stream = gulp.src(...)
+
+stream = is_prod
+    ? stream.pipe(prod_plugin).pipe(...)
+    : stream // nothing
+
+stream = stream.pipe(rest_plugins).pipe(gulp.dest(...))
+
