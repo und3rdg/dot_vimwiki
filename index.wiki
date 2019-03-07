@@ -50,6 +50,7 @@
 * [[gulpfile.js]]
 * [[is_dev is_prod (from task name)]]
 * [[browserify]]
+* [[browserify extended]]
 
 
 = vim =
