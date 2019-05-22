@@ -66,6 +66,8 @@
 * [[sainsbury]]
 * [[tmp]]
 
+= fun =
+* [[console.log + css]]
 = keepthinking =
 * [[bookmark]]
 * [[dev links]]
