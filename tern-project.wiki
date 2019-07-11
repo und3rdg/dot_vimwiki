@@ -1,0 +1,20 @@
+.tern-project
+    {
+        "libs": [
+            "browser",
+            "jquery",
+            "chai",
+            "react"
+        ],
+        "loadEagerly": [
+            "importantfile.js"
+        ],
+        "plugins": {
+            "node": { },
+            "es_modules": { },
+            "requirejs": {
+                "baseURL": "./",
+                "paths": {}
+            }
+        }
+    }

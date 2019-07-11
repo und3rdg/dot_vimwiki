@@ -1,4 +1,5 @@
 = javascript =
+* [[tern-project]]
 * [[accesibility: tab & skipnav]]
 * [[eslintrc]]
 * [[deepClone]]
