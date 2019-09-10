@@ -29,6 +29,7 @@
 * [[var_dump]]
 * [[$githash]]
 * [[truncate)]]
+* [[escape JSON]]
 
 = css =
 * [[text-decoration-color]]
