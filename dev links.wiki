@@ -41,6 +41,11 @@
   * http://www.paul-mellon-centre.ac.uk/
   * http://staging.paul-mellon-centre.ac.uk/
 
+* media majlis
+* http://bl.keepthinking.net/majlis
+    * https://mediamajlis.northwestern.edu/en
+    * http://staging.mediamajlis.northwestern.edu/en
+
 * *sainsbury*
 * http://bl.keepthinking.net:4000/sainsbury
   * http://bl.keepthinking.net/testing/sainsbury-v1/
