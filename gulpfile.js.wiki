@@ -1,4 +1,4 @@
-const gulp         = require('gulp')
+[[const]] gulp         = require('gulp')
 const plumber      = require('gulp-plumber')
 const sourcemaps   = require('gulp-sourcemaps') //sourcemaps compatibility -> https://github.com/gulp-sourcemaps/gulp-sourcemaps/wiki/Plugins-with-gulp-sourcemaps-support
 const sass         = require('gulp-sass')
