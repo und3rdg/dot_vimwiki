@@ -26,6 +26,7 @@
 
 * *chaplin*
 * http://bl.keepthinking.net:4000/chaplin/en
+    * http://www.charliechaplinarchive.org/
     * http://chaplin.keepthinking.net/en
 
 * *diaart*
