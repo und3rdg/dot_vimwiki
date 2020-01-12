@@ -1,4 +1,5 @@
 [[TMP]]
+[[tmp2]]
 
 
 = javascript =
@@ -32,7 +33,7 @@
 = php =
 * [[var_dump]]
 * [[$githash]]
-* [[truncate)]]
+* [[truncate]]
 * [[escape JSON]]
 * [[CI load view]]
 
@@ -68,7 +69,6 @@
 
 = vim =
 * [[modeline]]
-* [[Ex]]
 
 = todo =
 

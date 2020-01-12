@@ -1,4 +1,4 @@
-.tern-project
+    ## .tern-project
     {
         "libs": [
             "browser",
@@ -18,9 +18,9 @@
             }
         }
     }
-    
-    
-    
+
+
+
     {
         "libs": [
             "browser",
