@@ -22,6 +22,7 @@
 * [[check if mobile(phone)]]
 * [[DOMContentLoaded]]
 * [[tdd dom]]
+* [isExist](isExist)
 
 = svg =
 * [[arrow]]
