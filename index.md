@@ -1,5 +1,4 @@
 [[TMP]]
-[[tmp2]]
 
 
 = javascript =
@@ -70,16 +69,9 @@
 = vim =
 * [[modeline]]
 
-= todo =
-
 = notepad =
 * [[hotreload cdn]]
-* [[sainsbury]]
 
 = fun =
 * [[console.log + css]]
 
-= keepthinking =
-* [[bookmark]]
-* [[dev links]]
-* [[img_tpl]]
