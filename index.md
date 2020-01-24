@@ -2,6 +2,7 @@
 
 
 = javascript =
+* [[jest and enzyme api]]
 * [[tern-project]]
 * [[accesibility: tab & skipnav]]
 * [[eslintrc]]
