@@ -30,6 +30,7 @@
 * [[close tag]]
 * [[cross]]
 * [[magnifier]]
+* [[plus-rhombus]]
 
 = php =
 * [[var_dump]]
