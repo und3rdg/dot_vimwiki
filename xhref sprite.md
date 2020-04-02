@@ -12,6 +12,8 @@
 ## USE
 
     <a class="promo--content_cta" href="@Model.LinkUrl.Url">View details <span class="icon_arrow">
-            <svg width="12px" height="13px"><use xlink:href="#v-icon_chevron-down"></use></svg>
+            <svg width="12px" height="13px">
+                <use xlink:href="#v-icon_chevron-down"></use>
+            </svg>
         </span>
     </a>
