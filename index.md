@@ -26,6 +26,7 @@
 * [isExist](isExist)
 
 = svg =
+* [[xhref sprite]]
 * [[arrow]]
 * [[close tag]]
 * [[cross]]
@@ -50,6 +51,7 @@
 = linux =
 * [[ls by port]]
 * [[bsd_games]]
+* [[list connected disks]]
  
 = git =
 * [[gitignore]]
