@@ -40,6 +40,9 @@
 * [[escape JSON]]
 * [[CI load view]]
 
+= html =
+* [[Responsive images]]
+
 = css =
 * [[text-decoration-color]]
 * [[background inline]]

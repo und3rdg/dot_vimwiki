@@ -1,1 +1,2 @@
+    <script type="text/javascript" src="http://livejs.com/live.js"></script>
 <script type="text/javascript" src="http://livejs.com/live.js"></script>
