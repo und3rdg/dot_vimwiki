@@ -24,8 +24,8 @@ The Jest API focusses more on the ability to define tests, make assertions, and 
 Enzyme API focusses on rendering the react component and retrieving specific nodes from the rendered tree. There are three ways to render a component.
 
     shallow : renders only the component under test. Dependent components are not rendered.
-    mount   : mounts the full component in JSDOM.
     render  : renders the component as static HTML.
+    mount   : mounts the full component in JSDOM.
 
 ### There are several methods to retrieve nodes from the rendered component.
 
