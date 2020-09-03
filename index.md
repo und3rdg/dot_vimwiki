@@ -55,6 +55,7 @@
 * [[ls by port]]
 * [[bsd_games]]
 * [[list connected disks]]
+* [[fix permisions]]
  
 = git =
 * [[gitignore]]
